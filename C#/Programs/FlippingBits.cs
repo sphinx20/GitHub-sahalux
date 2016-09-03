@@ -34,7 +34,7 @@ namespace My_Personal_Projects
     public class FlippingBits
     {
 
-        public static void Main()
+        public void Start()
         {
             var T = Convert.ToInt32(Console.ReadLine());
             var arr = new ArrayList();
